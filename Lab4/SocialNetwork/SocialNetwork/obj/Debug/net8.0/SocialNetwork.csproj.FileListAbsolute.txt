@@ -1,0 +1,15 @@
+C:\Users\nezab\OneDrive\Desktop\Lab4\SocialNetwork\SocialNetwork\bin\Debug\net8.0\SocialNetwork.exe
+C:\Users\nezab\OneDrive\Desktop\Lab4\SocialNetwork\SocialNetwork\bin\Debug\net8.0\SocialNetwork.deps.json
+C:\Users\nezab\OneDrive\Desktop\Lab4\SocialNetwork\SocialNetwork\bin\Debug\net8.0\SocialNetwork.runtimeconfig.json
+C:\Users\nezab\OneDrive\Desktop\Lab4\SocialNetwork\SocialNetwork\bin\Debug\net8.0\SocialNetwork.dll
+C:\Users\nezab\OneDrive\Desktop\Lab4\SocialNetwork\SocialNetwork\bin\Debug\net8.0\SocialNetwork.pdb
+C:\Users\nezab\OneDrive\Desktop\Lab4\SocialNetwork\SocialNetwork\obj\Debug\net8.0\SocialNetwork.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nezab\OneDrive\Desktop\Lab4\SocialNetwork\SocialNetwork\obj\Debug\net8.0\SocialNetwork.AssemblyInfoInputs.cache
+C:\Users\nezab\OneDrive\Desktop\Lab4\SocialNetwork\SocialNetwork\obj\Debug\net8.0\SocialNetwork.AssemblyInfo.cs
+C:\Users\nezab\OneDrive\Desktop\Lab4\SocialNetwork\SocialNetwork\obj\Debug\net8.0\SocialNetwork.csproj.CoreCompileInputs.cache
+C:\Users\nezab\OneDrive\Desktop\Lab4\SocialNetwork\SocialNetwork\obj\Debug\net8.0\SocialNetwork.dll
+C:\Users\nezab\OneDrive\Desktop\Lab4\SocialNetwork\SocialNetwork\obj\Debug\net8.0\refint\SocialNetwork.dll
+C:\Users\nezab\OneDrive\Desktop\Lab4\SocialNetwork\SocialNetwork\obj\Debug\net8.0\SocialNetwork.pdb
+C:\Users\nezab\OneDrive\Desktop\Lab4\SocialNetwork\SocialNetwork\obj\Debug\net8.0\SocialNetwork.genruntimeconfig.cache
+C:\Users\nezab\OneDrive\Desktop\Lab4\SocialNetwork\SocialNetwork\obj\Debug\net8.0\ref\SocialNetwork.dll
+C:\Users\nezab\OneDrive\Desktop\Lab4\SocialNetwork\SocialNetwork\obj\Debug\net8.0\SocialNe.364C5A64.Up2Date
